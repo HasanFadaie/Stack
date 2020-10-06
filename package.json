@@ -1,0 +1,20 @@
+{
+  "name": "stack-hasan",
+  "version": "1.1.0",
+  "description": "my first nodejs stack module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "push",
+    "pop",
+    "stack"
+  ],
+  "author": "hasan",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^6.7.0",
+    "pino-pretty": "^4.2.1"
+  }
+}
